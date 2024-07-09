@@ -44,4 +44,4 @@ data = pd.DataFrame({
 })
 
 # Write the data to an Excel file
-data.to_excel('generatedFiles/heart_disease_dataset.xlsx', index=False)
+data.to_excel('generatedFiles/heart_disease_dataset2.xlsx', index=False)
